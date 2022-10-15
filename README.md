@@ -1,4 +1,4 @@
-# Hi, I am Lukas Vasadi
+# Hi, I'm Lukas
 
 <div>
     <!-- <a href="https://github.com/lukasvasadi"></a> -->
