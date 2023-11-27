@@ -1,40 +1,31 @@
-<!-- # Hi, I'm Lukas -->
+## Hi, I'm Lukas
 
-<div>
-    <a href="https://github.com/lukasvasadi"></a>
-    <!-- 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lukasvasadi&show_icons=true&theme=omni&include_all_commits=false&count_private=true"/>
-    -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukasvasadi&layout=compact&langs_count=7&theme=omni"/>
-</div>
+My work centers on instrumentation firmware and control software development. I also maintain a developer blog at [lukasvasadi.dev](https://lukasvasadi.dev).
  
-<div style="display: inline_block"><br> 
-    <img align="center" alt="C" src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" />
-    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" alt="Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Julia" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <!--
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    -->
-    <!--
-    <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-    -->
-    <!--
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    -->
-</div>
- 
-##
+#### Languages
 
-<div style="display: inline-block">
-    <a href="mailto:lukas.vasadi@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/lukasvasadi">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div>
+![Static Badge][C]
+![Static Badge][Cpp]
+![Static Badge][Python]
+![Static Badge][Julia]
+![Static Badge][JS]
+![Static Badge][TS]
+
+[C]: https://img.shields.io/badge/C-00599C.svg?style=for-the-badge&logo=C&logoColor=white
+[Cpp]: https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white
+[Python]: https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+[Julia]: https://img.shields.io/badge/Julia-9558B2.svg?style=for-the-badge&logo=Julia&logoColor=white
+[JS]: https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E
+[TS]: https://img.shields.io/badge/TypeScript-%23323330.svg?style=for-the-badge&logo=TypeScript&logoColor=3178C6
+
+#### Frameworks
+
+![Static Badge][ST]
+![Static Badge][Qt]
+![Static Badge][Electron]
+![Static Badge][SvelteKit]
+
+[ST]: https://img.shields.io/badge/STM32-03234B.svg?style=for-the-badge&logo=STMicroelectronics&logoColor=white
+[Qt]: https://img.shields.io/badge/Qt-41CD52.svg?style=for-the-badge&logo=Qt&logoColor=white
+[Electron]: https://img.shields.io/badge/Electron-47848F.svg?style=for-the-badge&logo=Electron&logoColor=white
+[SvelteKit]: https://img.shields.io/badge/SvelteKit-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white
