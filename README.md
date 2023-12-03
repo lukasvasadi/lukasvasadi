@@ -1,6 +1,6 @@
 ## Hi, I'm Lukas
 
-My work centers on instrumentation firmware and control software development. I also maintain a developer blog at [lukasvasadi.dev](https://lukasvasadi.dev).
+My work centers on firmware and software development for lab instrumentation. On the side, I maintain a developer blog at [lukasvasadi.dev](https://lukasvasadi.dev).
  
 #### Languages
 
